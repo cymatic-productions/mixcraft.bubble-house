@@ -32,7 +32,7 @@ _Learn more [here](https://www.youtube.com/watch?v=W0ClXPfhCEg)_
 ## Ensuring Portability
 ### Overview
 * _To ensure full-portability of your project, ensure `SFX`, `Loops`, and most importantly, `stems` are exported locally to the project._
- * _a `stems` directory has been created for you._
+  * _a `stems` directory has been created for you._
 
 1. Exporting / Importing Tracks As-is
 2. Exporting / Importing Stored Imported Loops and SFX to Local Project Folder
